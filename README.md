@@ -10,8 +10,13 @@ program](https://convention2.allacademic.com/one/apsa/apsa22/index.php)
 or waiting for the page to load, this repo is for you.
 
 This repo only contains one folder with the program in tabular format
-(csv and xlsx). You can download it and enjoy your APSA experience!
+([csv](https://github.com/benjaminguinaudeau/apsa2022/raw/master/data/all_panels_wide.csv)
+and
+[xlsx](https://github.com/benjaminguinaudeau/apsa2022/raw/master/data/all_panels_wide.xlsx)).
+You can download it and enjoy your APSA experience!
 
 More data has been collected (parsed authors and universities ;
 abstract). I do not need it for now, but if you are interested in this
 kind of data, feel free to get in touch.
+
+<img src="example.png" style = "display: block; margin-left: auto; margin-right: auto; width: 100%;"/>
