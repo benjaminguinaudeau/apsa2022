@@ -3,16 +3,7 @@
 
 # Program of the APSA 2022
 
-<style>
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-</style>
-
-<img src="meme.jpeg" width="400" height="400" class="center"/>
+<img src="meme.jpeg" width="400" height="400" style = "display: block; margin-left: auto; margin-right: auto; width: 50%;"/>
 
 If you are tired of scrolling through the [APSA
 program](https://convention2.allacademic.com/one/apsa/apsa22/index.php)
